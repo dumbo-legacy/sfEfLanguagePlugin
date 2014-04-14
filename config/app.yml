@@ -1,0 +1,4 @@
+all:
+  sf_language_plugin:
+    web_dir: /sfEfLanguagePlugin
+ 

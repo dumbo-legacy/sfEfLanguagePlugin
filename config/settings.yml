@@ -1,0 +1,5 @@
+all:
+  .settings:
+    default_culture: es
+    i18n: true
+    charset: utf-8
