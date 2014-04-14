@@ -1,0 +1,13 @@
+#translation { float: right; margin-bottom: -30px; padding-top: 5px; margin-right:20px;}
+
+#translation ul { padding:0; margin:0; white-space:nowrap; }
+
+#translation ul li { list-style-type:none; display:inline-block; height: 17px;}
+
+*html #translation ul li { display:inline; }  /* IE6 hack */
+
+*:first-child+html #translation ul li { display:inline; } /* IE7 hack */
+
+.selected_language { border: 1px solid #BBBBBB; height: 15px;}
+
+#translation img { margin-bottom: -4px; padding: 3px; }
