@@ -1,4 +1,4 @@
 sfEfLanguagePlugin
 ==================
 
-The sfEfLanguagePlugin is a symfony plugin that provides internationalization and localization features
+The sfEfLanguagePlugin is a symfony1 plugin that provides internationalization and localization features
